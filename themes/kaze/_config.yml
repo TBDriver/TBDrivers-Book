@@ -1,0 +1,222 @@
+#------------------------
+# Header config
+title: 硬盘のBook
+author: TBDriver硬盘
+# put the logo on the ${blog_path}/source/img/${picname}.png or use urls
+logo_img: https://pic1.imgdb.cn/item/636076c316f2c2beb180789a.png
+author_img: https://pic1.imgdb.cn/item/636076c316f2c2beb180788d.png
+author_description: 你也可以叫我闰土！
+#------------------------
+# Navbar config
+#------------------------
+menus:
+  home: /
+  archive: /archives
+  tags: /tags
+  categories: /categories
+  about: /about
+  friends: /2022/Book%E7%9A%84%E7%95%99%E8%A8%80%E5%8C%BA/
+  artitalk: /9999/%E7%82%B9%E6%AD%A4%E8%B7%B3%E8%BD%AC%E8%87%B3%E7%A1%AC%E7%9B%98%E7%9A%84%E8%AE%BA%E5%9D%9B%EF%BC%81/ # You can uncomment to add this route
+
+about:
+  description: description
+  social_links:
+    # - { icon: icon, link: your link }
+
+#------------------------
+# Links
+#------------------------
+links:
+  # name:
+  #   url: https://example.com
+  #   avatar:
+  #   description:
+  #------------------------
+  # tip: if you want to use QQ avatar without giving away your QQ number,
+  # you can use this api to get an encrypted url:
+  # https://ptlogin2.qq.com/getface?appid=1006102&imgtype=3&uin=${yourQQNumber}
+  # and use the encrypted url in the json
+  #------------------------
+
+#------------------------
+# Post
+#------------------------
+toc:
+  showListNumber: true
+  maxDepth: 6
+  minDepth: 1
+
+copyright:
+  enable: true
+  writer: # if writer is empty we will use config.author as writer
+  declare: 这个Book的所有文章除特别声明外，均采用<a target="_blank" rel="noopener" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh">CC BY-NC-SA 4.0 协议</a>进行约束。转载时请标明出处~
+  style: info # the style uses note warning | danger | primary | info | success
+
+search:
+  enable: true
+  path: /search.json
+  field: posts
+  searchContent: true
+
+og:
+  enable: true
+  title: true
+  url: true
+  image: true
+  description: true
+  article: true
+#------------------------
+# Footer
+#------------------------
+footer:
+  copyYear: 2022
+  # if showPoweredBy is ture, 'Powered by Hexo' will be seen on the footer
+  showPoweredBy: false
+  # if showThemeName is ture, 'Theme - Kaze' will be seen on the footer
+  showThemeName: true
+  #------------------------
+  # Record config
+  # please put the gov image in ${yoursite}/img/beian.png
+  RecordInfo: "" # your Record info such as '某ICP备xxx号'
+  govRecordInfo: "" # your gov record info such as '某公网安备xxx号'
+  govRecordUrl: "" # your gov record url
+  #------------------------
+  # pv / uv statistics config
+  #------------------------
+  statistics:
+    enable: true
+    type: busuanzi # now version only supports busuanzi
+    pv:
+      enable: true
+      style: 咱一共被访问了 {} 次捏 # the style will be shown as $1{pv}$2
+    uv:
+      enable: true
+      style: 一共有 {} 个人来过这个Book # the style will be shown as $1{uv}$2
+
+widgets:
+  showWidgetsMobiles: flex
+  popular_posts: flex
+#------------------------
+# animation config
+#------------------------
+# if scrollUpAnimation is true, there will be scroll-up animation.
+scrollUpAnimation: true
+
+#------------------------
+# comment config
+#------------------------
+comment:
+  enable: true
+  type: valine # valine | gitalk | livere | disqus | we recommend valine | waline
+  # gitalk config details can see in https://github.com/gitalk/gitalk/blob/master/readme-cn.md
+  # waline config details can see in https://waline.js.org
+  valine:
+    app_id: 3axUEYIoK3BYG5Ss1QYSuY6F-gzGzoHsz
+    app_key: hHqsFVUir1jTDGlP5LtIJa1G
+    placeholder: 吐槽一下吧~
+    avatar: mp
+    pageSize: 10
+
+#------------------------
+# latex config
+#------------------------
+# choose true to use latex by mathjax or katex
+# warning: latex rendering will put lots of loading burden on page loading
+latex:
+  enable: false
+  engine: mathjax # mathjax | katex
+  # for better rendering effect, when you choose mathjax, you can use it directly but you will lose some effect
+  # so you can use hexo-renderer-kramed
+  # when you choose katex, you must use hexo-renderer-markdown-it-plus or other render engine
+  global: false
+  # when you choose false, you can use latex by `latex: true` in post front-matter
+
+#------------------------
+# lazyload config
+#------------------------
+lazyload:
+  enable: true
+  loadingImg:
+
+#------------------------
+# plugins config
+#------------------------
+lightbox:
+  enable: true
+# If your hexo version is below 5.0.0, please upgrade first to use this config
+# we support eight highlight themes, you can go to prism website (https://prismjs.com) for more information
+# theme: default | coy | dark | funky | okaidia | solarizedlight | tomorrow | twilight
+  theme: default
+prism:
+  theme: default
+  darkTheme: tomorrow
+# show the number of words in posts
+wordcount:
+  enable: true
+# Analytics config
+analytics:
+  enable: false
+  type: google # google
+  google:
+    id: # you can see more information in https://analytics.google.com/
+# Doc：https://artitalk.js.org/
+artitalk:
+  enable: false
+  appId: 
+  appKey: 
+#------------------------
+# minify config
+# css minify uses autoprefixer and clean-css
+# javascript minify uses uglify-es
+# html minify uses html-minifier
+#------------------------
+minify:
+  enable: true
+  css: true
+  js: true
+  html: true
+#------------------------
+# theme design config
+#------------------------
+# the config of theme colors and styles
+# you can modify these presets to design different styles
+color:
+  text-color: "#3c4858"
+  text-strong-color: "#2f3d4e"
+  text-light-color: "#60656a"
+  divider-color: "#e6e8ee"
+  title-color: "#475b6d"
+  link-color: "#3273dc"
+  link-hover-color: "#6596e5"
+  info-text-color: "#60656a"
+  widget-background-color: "#fff"
+  body-background-color: "#f2f5f8"
+  border-color: "#e1e4e9"
+  pre-color: "#2d2d2d"
+  code-color: "#50687c"
+  code-background-color: "#e9eaf0"
+
+font:
+  font-size: 16px # global font-size
+  font-family: '-apple-system,BlinkMacSystemFont,"Segoe UI","Helvetica Neue","PingFang SC","Microsoft YaHei",sans-serif' # global font-family
+
+#------------------------
+# cdn config
+#------------------------
+cdn:
+  mathjax: //cdn.jsdelivr.net/npm/mathjax@3.0.5/es5/tex-svg.js
+  katex: //cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.css
+  gitalk:
+    css: //cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css
+    js: //cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js
+  valine: //
+  livere: //cdn-city.livere.com/js/embed.dist.js
+  waline: 
+    js: //unpkg.com/@waline/client@v2/dist/waline.js
+    css: //unpkg.com/@waline/client@v2/dist/waline.css
+  baguetteBox: /js/lib/lightbox
+  lozad: /js/lib/lozad.min.js
+  prism: /js/lib/prism/
+  busuanzi: //busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js
+  artitalk: https://cdn.jsdelivr.net/npm/artitalk
+  md5: /js/lib/md5.min.js
