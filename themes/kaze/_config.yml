@@ -209,7 +209,7 @@ cdn:
   gitalk:
     css: //cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css
     js: //cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js
-  valine: //
+  valine: /js/lib/Valine.min.js
   livere: //cdn-city.livere.com/js/embed.dist.js
   waline: 
     js: //unpkg.com/@waline/client@v2/dist/waline.js

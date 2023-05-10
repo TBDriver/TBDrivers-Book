@@ -8,3 +8,5 @@ public/
 .deploy_git/
 .vscode/
 package-lock.json
+themes\kaze\_config.yml
+themes\kaze\layout\post.ejs
