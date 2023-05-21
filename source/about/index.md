@@ -9,7 +9,6 @@ date: 2018-11-11 08:24:49
 
 ### **基础档案**
 【代号】TBDriver硬盘    
-【性别】男    
 【生日】2月16日    
 【种族】汉    
 【身高】169cm    
@@ -20,41 +19,30 @@ date: 2018-11-11 08:24:49
 【物理强度】标准    
 【战场机动】优良    
 【生理耐受】标准    
-【战术规划】优良    
+【战术规划】标准    
 【战斗技巧】普通    
-【源石技艺适应性】优良    
-
-### **客观履历**
-萨卡兹佣兵头目，W。曾参与卡兹戴尔漫长的内战，其小队以残暴而高效的作战手段闻名。在切尔诺伯格事件中与罗德岛发生冲突，后因为某些原因叛出整合运动，在凯尔希医生亲自进行了充分交涉后，与罗德岛签订战略合作条款。    
+【源石技艺适应性】缺陷        
 
 ### **临床诊断分析**
-造影检测结果显示，该干员的体内脏器轮廓模糊，未见异常阴影，循环系统内源石颗粒检测未见异常，无矿石病感染迹象，现阶段可确认为是非矿石病感染者。
-
-【体细胞与源石融合率】 0%    
-该干员没有被源石感染的迹象。  
-
-【血液源石结晶密度】0.12u/L    
-因常年在卡兹戴尔地区活动，并毫不节制地滥用源石军工制品，雇佣兵W的感染情况不容乐观。但其本人从未有身为感染者的自觉，又或者，对于大部分萨卡兹而言，他们早已习惯了这种备受煎熬的双重身份。    
-
-
-### **成分分析**
 ---
-~~报菜名~~
-Minecraft LobotmyCorportion LibraryOfRunia 球球大作战 Arcaea Cytoid Malody MuseDash Orzmic Phigros 元气骑士 HenryStickMin PlogueInc. 原神 明日方舟
+~~报菜名~~   
+Minecraft LobotmyCorportion LibraryOfRunia 球球大作战 Arcaea Cytoid Malody MuseDash Orzmic Phigros 元气骑士 HenryStickMin PlagueInc. o 粥     
+我玩的游戏还真算少的 大部分还都只是玩过xx   
 
-### **档案资料四**
+### **档案资料一**
 ---
 聊天的时候不太会对视    
 对穿搭的看法：能看就行    
 完美主义者+拖延症晚期，要么不做要么好好做    
 数学废物qwp
 
-### **档案资料五**
+### **档案资料二**
+---
 Github：[TBDriver](https://github.com/TBDriver)    
 XBox：[TBDriver8890](https://account.xbox.com/zh-cn/profile?gamertag=TBDRIVER8890)    
 Minecraft：TBDriver    
 Bilibili：[TBDriver硬盘](https://space.bilibili.com/354477157)    
-邮箱：mailto:liurundong2003@outlook.com    
+邮箱：liurundong2003@outlook.com    
 
 持续更新中~
 <div class="time-axis-main">
