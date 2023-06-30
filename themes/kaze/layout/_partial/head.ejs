@@ -239,9 +239,12 @@
     <% const engine = theme.latex.engine; %>
     <%- prefetch_js(theme.cdn[engine]) %>
   <% } %>
+  <!--  这什么勾诗
   <% if(theme.comment.enable) { %>
     <% const type = theme.comment.type; %>
     <%- prefetch_js(theme.cdn[type].js ? theme.cdn[type].js : theme.cdn[type]) %>
   <% } %>
   <%# end prefetch %>
+  -->
+  <script src="/text/javascript/Valine.min.js"></script>
 </head>

@@ -15,7 +15,7 @@ menus:
   tags: /tags
   categories: /categories
   about: /about
-  friends: /2022/Book%E7%9A%84%E7%95%99%E8%A8%80%E5%8C%BA/
+  # friends: /2022/Book%E7%9A%84%E7%95%99%E8%A8%80%E5%8C%BA/
   artitalk: /9999/%E7%82%B9%E6%AD%A4%E8%B7%B3%E8%BD%AC%E8%87%B3%E7%A1%AC%E7%9B%98%E7%9A%84%E8%AE%BA%E5%9D%9B%EF%BC%81/ # You can uncomment to add this route
 
 about:
@@ -209,7 +209,7 @@ cdn:
   gitalk:
     css: //cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css
     js: //cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js
-  valine: /js/lib/Valine.min.js
+  valine: /text/javascript/Valine.min.js
   livere: //cdn-city.livere.com/js/embed.dist.js
   waline: 
     js: //unpkg.com/@waline/client@v2/dist/waline.js
