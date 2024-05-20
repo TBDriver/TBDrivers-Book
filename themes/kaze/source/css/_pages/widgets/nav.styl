@@ -14,10 +14,11 @@
   height: 100%
   align-items: center
   justify-content: space-around
-  padding: 0.7rem 0.6rem
+  padding: 0.7rem 0.3rem
   color: var(--text-color)
 .navbar-logo-dsc
   font-size: $lg-font-size
+  font-weight: 600
 .navbar-logo-img
   // height: 34px
   // width: 34px
@@ -32,10 +33,11 @@
     align-items: center
     color: var(--text-color)
     cursor: pointer
-    padding: 0.7rem 0.6rem
-    font-size: 1.05rem
+    padding: 0.3rem 0.3rem
+    font-size: 1.25rem
     &:hover
       color: var(--link-hover-color)
+    font-weight: 600
     transition: all .15s
   &-btn
     background: none
@@ -48,7 +50,7 @@
 // mobiles navbar
 @media (max-width: 1088px)
   .navbar
-    min-height: 90px
+    min-height: 100px
     display: block
   .navbar-logo
     margin-left: 0
@@ -65,3 +67,4 @@
   .navbar-menu
     display: flex
     justify-content: space-evenly
+    font-size: 1.3rem

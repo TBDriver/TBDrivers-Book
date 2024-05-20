@@ -1,9 +1,9 @@
-title: 如何通过电脑使用AI学
+title: 【贴心教程】如何通过电脑使用AI学
 author: 闰土
 tags:
   - 虚拟机
-  - 教程
-categories: []
+categories:
+  - 贴心教程
 date: 2022-11-13 17:41:00
 ---
 看挺多人都打不开，写一个吧    

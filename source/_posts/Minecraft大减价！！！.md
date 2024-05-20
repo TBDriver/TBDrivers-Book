@@ -1,12 +1,13 @@
-title: Minecraft大减价！！！
+title: 【碎碎念】Minecraft大减价！！！
 author: 闰土
 tags:
-  - Minecraft
+  - 我的世界
+  - ''
   - 游戏
 categories:
-  - Minecraft
+  - 碎碎念
+banner_img: 'https://s1.ax1x.com/2022/08/26/v2X3WT.png'
 date: 2022-08-25 17:43:00
-banner_img: https://s1.ax1x.com/2022/08/26/v2X3WT.png
 ---
 前天跑到了Minecraft官网看看，一个意外的惊喜。    
 <!-- more -->

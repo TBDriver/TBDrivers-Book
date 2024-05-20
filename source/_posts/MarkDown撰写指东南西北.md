@@ -1,9 +1,10 @@
-title: MarkDown撰写指东南西北
+title: 【贴心教程】MarkDown撰写指东南西北
 author: 闰土
 tags:
   - Markdown
-categories:
   - 资料整合
+categories:
+  - 贴心教程
 date: 2022-08-26 19:27:00
 ---
 一个MarkDown文档撰写的教程总结。    

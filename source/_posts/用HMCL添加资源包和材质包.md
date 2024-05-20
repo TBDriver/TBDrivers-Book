@@ -1,10 +1,11 @@
-title: 用HMCL添加资源包和材质包
+title: 【贴心教程】用HMCL添加资源包和材质包
 author: 闰土
 tags:
-  - HMCL
-  - 教程
+  - 我的世界
+  - 资源包/材质包
+  - 游戏
 categories:
-  - Minecraft
+  - 贴心教程
 banner_img: 'https://s1.ax1x.com/2022/09/01/v5vViQ.png'
 date: 2022-09-01 21:50:00
 ---

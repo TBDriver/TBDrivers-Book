@@ -1,9 +1,10 @@
-title: 讲讲Hexo Admin的使用方法吧~
+title: 【贴心教程】讲讲Hexo Admin的使用方法吧~
 author: 闰土
 tags:
   - Hexo Admin
+  - 网站
 categories:
-  - 教程
+  - 贴心教程
 banner_img: 'https://s1.ax1x.com/2022/11/06/xXzxP0.png'
 date: 2022-08-22 13:16:00
 ---

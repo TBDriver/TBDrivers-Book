@@ -1,10 +1,11 @@
 layout: draft
-title: 一个vector矩阵生成器
+title: 【代码交流】一个vector矩阵生成器
 author: 闰土
 tags:
   - vector
-categories:
   - C++
+categories:
+  - 代码交流
 date: 2023-05-20 14:58:00
 ---
 半天时间写的，用于int转vec矩阵    

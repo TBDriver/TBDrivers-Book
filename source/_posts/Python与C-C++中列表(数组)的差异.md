@@ -1,11 +1,12 @@
-title: Python与C/C++中列表(数组)的差异
+title: 【代码交流】Python与C/C++中列表(数组)的差异
 author: 闰土
 tags:
   - C
   - C++
   - Python
+  - tuple
 categories:
-  - 杂码
+  - 代码交流
 date: 2023-03-18 22:31:00
 ---
 做个整合吧（因为自己整的时候看着太离谱了..）  

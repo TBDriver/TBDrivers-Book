@@ -1,9 +1,9 @@
-title: 一次蓝屏代码PROCESS_DIED的解决方法
+title: 【悲伤经验】一次蓝屏代码PROCESS_DIED的解决方法
 author: 闰土
 tags:
   - 蓝屏
 categories:
-  - Windows
+  - 悲伤经验
 date: 2022-09-10 20:08:00
 ---
 一般都是硬盘问题。    

@@ -1,9 +1,10 @@
-title: 亲身经历告诉你chkdsk可以停止吗
+title: 【悲伤经验】亲身经历告诉你chkdsk可以停止吗
 author: 闰土
 tags:
-  - 指令
-categories:
+  - 蓝屏
   - Windows
+categories:
+  - 悲伤经验
 date: 2022-09-10 20:41:00
 ---
 书  接  上  文    

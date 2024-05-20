@@ -16,7 +16,7 @@ menus:
   categories: /categories
   about: /about
   # friends: /2022/Book%E7%9A%84%E7%95%99%E8%A8%80%E5%8C%BA/
-  artitalk: /9999/%E7%82%B9%E6%AD%A4%E8%B7%B3%E8%BD%AC%E8%87%B3%E7%A1%AC%E7%9B%98%E7%9A%84%E8%AE%BA%E5%9D%9B%EF%BC%81/ # You can uncomment to add this route
+  # artitalk: /9999/%E7%82%B9%E6%AD%A4%E8%B7%B3%E8%BD%AC%E8%87%B3%E7%A1%AC%E7%9B%98%E7%9A%84%E8%AE%BA%E5%9D%9B%EF%BC%81/ # You can uncomment to add this route
 
 about:
   description: description
@@ -49,7 +49,7 @@ toc:
 copyright:
   enable: true
   writer: # if writer is empty we will use config.author as writer
-  declare: 这个Book的所有文章除特别声明外，均采用<a target="_blank" rel="noopener" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh">CC BY-NC-SA 4.0 协议</a>进行约束。转载时请标明出处~
+  declare: 本Book的所有文章除特别声明外，均采用<a target="_blank" rel="noopener" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh">CC BY-NC-SA 4.0 协议</a>进行约束。转载时请标明出处~
   style: info # the style uses note warning | danger | primary | info | success
 
 search:

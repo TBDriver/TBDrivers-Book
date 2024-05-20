@@ -1,10 +1,10 @@
-title: VSCode使用方法简述
+title: 【贴心教程】VSCode使用方法简述
 author: 闰土
 tags:
-  - 工具推荐
   - VSCode
+  - 编辑器
 categories:
-  - 软件
+  - 贴心教程
 banner_img: 'https://s1.ax1x.com/2022/08/31/v4RVHK.png'
 date: 2022-08-31 15:53:00
 ---
